@@ -1,0 +1,16 @@
+{
+ "about": "Daily SHA-256 digests of the day's closed signal activity, hash-chained. No tickers, strategies, prices or performance are published here.",
+ "days": [
+  {
+   "day": "2026-10-16",
+   "hash": "4c5ba86c5af3bda343b5f3b07a984362f935b9318edddc89e24a937a33fff1dc",
+   "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+   "counts": {
+    "entries": 6,
+    "exits": 6,
+    "late_additions": 0
+   },
+   "made_at": "2026-10-18T22:34:32.654563+00:00"
+  }
+ ]
+}
